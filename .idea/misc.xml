@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wangx/Desktop/note/app/src/main/res/layout/activity_add.xml" value="0.12027027027027028" />
+        <entry key="..\:/Users/wangx/Desktop/note/app/src/main/res/layout/activity_edit.xml" value="0.13108108108108107" />
+        <entry key="..\:/Users/wangx/Desktop/note/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/wangx/Desktop/note/app/src/main/res/layout/activity_main.xml" value="0.13648648648648648" />
+        <entry key="..\:/Users/wangx/Desktop/note/app/src/main/res/layout/activity_research.xml" value="0.13108108108108107" />
+        <entry key="..\:/Users/wangx/Desktop/note/app/src/main/res/layout/search.xml" value="0.12027027027027028" />
+        <entry key="..\:/build/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1266891891891892" />
+        <entry key="..\:/build/app/src/main/res/drawable/fab_label_background.xml" value="0.1266891891891892" />
+        <entry key="..\:/build/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1266891891891892" />
+        <entry key="..\:/build/app/src/main/res/layout/activity_add.xml" value="0.1567622950819672" />
+        <entry key="..\:/build/app/src/main/res/layout/activity_edit.xml" value="0.1567622950819672" />
+        <entry key="..\:/build/app/src/main/res/layout/activity_login.xml" value="0.1567622950819672" />
+        <entry key="..\:/build/app/src/main/res/layout/activity_main.xml" value="0.15368852459016394" />
+        <entry key="..\:/build/app/src/main/res/layout/activity_research.xml" value="0.1567622950819672" />
+        <entry key="..\:/build/app/src/main/res/layout/search.xml" value="0.1567622950819672" />
+        <entry key="..\:/build1/app/src/main/res/layout/activity_main.xml" value="0.11587837837837837" />
+        <entry key="..\:/build1/app/src/main/res/layout/activity_research.xml" value="0.1359289617486339" />
+        <entry key="..\:/homework/as/buildone/app/src/main/res/layout/activity_add.xml" value="0.11621621621621622" />
+        <entry key="..\:/homework/as/buildone/app/src/main/res/layout/activity_edit.xml" value="0.11621621621621622" />
+        <entry key="..\:/homework/as/buildone/app/src/main/res/layout/activity_login.xml" value="0.11621621621621622" />
+        <entry key="..\:/homework/as/note/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11666666666666667" />
+        <entry key="..\:/homework/as/note/app/src/main/res/drawable/fab_label_background.xml" value="0.11666666666666667" />
+        <entry key="..\:/homework/as/note/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11666666666666667" />
+        <entry key="..\:/homework/as/note/app/src/main/res/layout/activity_add.xml" value="0.11351351351351352" />
+        <entry key="..\:/homework/as/note/app/src/main/res/layout/activity_edit.xml" value="0.11621621621621622" />
+        <entry key="..\:/homework/as/note/app/src/main/res/layout/activity_login.xml" value="0.11351351351351352" />
+        <entry key="..\:/homework/as/note/app/src/main/res/layout/activity_main.xml" value="0.11621621621621622" />
+        <entry key="..\:/homework/as/note/app/src/main/res/layout/activity_research.xml" value="0.11621621621621622" />
+        <entry key="..\:/homework/as/note/app/src/main/res/layout/search.xml" value="0.11351351351351352" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="note.app" />
+      </set>
+    </option>
+  </component>
+</project>
